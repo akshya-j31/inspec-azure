@@ -83,6 +83,7 @@ The Resource Group as well as the Network Security Group
   - `default_security_rules`
   - `allow_ssh_from_internet`
   - `allow_rdp_from_internet`
+  - `allow_https_from_internet`
   - `properties`
 
 ### security\_rules
@@ -110,6 +111,13 @@ The allow\_rdp\_from\_internet property contains a boolean value determined by a
 the Security Rules and Default Security Rules for unrestricted RDP access.
 
     it { should_not allow_rdp_from_internet }
+
+### allow\_rdp\_from\_internet
+
+The allow\_https\_from\_internet property contains a boolean value determined by analysing
+the Security Rules and Default Security Rules for unrestricted HTTPS access.
+
+    it { should_not allow_https_from_internet }
 
 ### Other Attributes
 
