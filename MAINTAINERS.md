@@ -13,7 +13,7 @@ project lead.
 
 ## InSpec Azure Resource Pack
 
-  Handles the [InSpec Azure Resource Pack](https://github.com/inspec/inspec-azure) toolset.
+  Handles the [InSpec Azure Resource Pack](https://github.com/akshya-j31/inspec-azure) toolset.
 
 To mention the team, use @chef/dca-team
 

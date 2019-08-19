@@ -1,15 +1,15 @@
 # Changelog
 <!-- latest_release 1.3.1 -->
-## [v1.3.1](https://github.com/inspec/inspec-azure/tree/v1.3.1) (2019-08-16)
+## [v1.3.1](https://github.com/akshya-j31/inspec-azure/tree/v1.3.1) (2019-08-16)
 
 #### Merged Pull Requests
-- Add azurerm_management_group and azurerm_management_groups [#193](https://github.com/inspec/inspec-azure/pull/193) ([jasonwbarnett](https://github.com/jasonwbarnett))
+- Add azurerm_management_group and azurerm_management_groups [#193](https://github.com/akshya-j31/inspec-azure/pull/193) ([jasonwbarnett](https://github.com/jasonwbarnett))
 <!-- latest_release -->
 
-## [v1.3.0](https://github.com/inspec/inspec-azure/tree/v1.3.0) (2019-07-23)
+## [v1.3.0](https://github.com/akshya-j31/inspec-azure/tree/v1.3.0) (2019-07-23)
 
 #### Merged Pull Requests
-- Add expeditor and buildkite verify pipeline [#190](https://github.com/inspec/inspec-azure/pull/190) ([miah](https://github.com/miah))
+- Add expeditor and buildkite verify pipeline [#190](https://github.com/akshya-j31/inspec-azure/pull/190) ([miah](https://github.com/miah))
 
 
 
@@ -19,7 +19,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.3.0] - 2018.10.25
-[Full Changelog](https://github.com/inspec/inspec-azure/compare/1.2.0...1.3.0)
+[Full Changelog](https://github.com/akshya-j31/inspec-azure/compare/1.2.0...1.3.0)
 
 **Enhancements:**
 
@@ -45,7 +45,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Cleans up formatting on documentation.
 
 ## [1.2.0] - 2018.09.14
-[Full Changelog](https://github.com/inspec/inspec-azure/compare/1.1.0...1.2.0)
+[Full Changelog](https://github.com/akshya-j31/inspec-azure/compare/1.1.0...1.2.0)
 
 **Enhancements:**
 
@@ -77,7 +77,7 @@ Thank you for your contribution @[Matt Mclane](https://github.com/mmclane)!
 - Removes `source` command from Rakefile, which was causing an error after each rake command.
 
 ## [1.1.0] - 2018.08.09
-[Full Changelog](https://github.com/inspec/inspec-azure/compare/1.0.0...1.1.0)
+[Full Changelog](https://github.com/akshya-j31/inspec-azure/compare/1.0.0...1.1.0)
 
 **Enhancements:**
 

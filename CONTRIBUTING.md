@@ -23,10 +23,10 @@ We have a 3 step process for contributions:
 
 Chef Projects are built to last. We strive to ensure high quality throughout the experience. In order to ensure this, we require that all Pull Requests to Chef projects meet these specifications:
 
-1. **Tests:** To ensure high quality code and protect against future regressions, we require all the code in Chef Projects to have at least unit test coverage. See the [test/unit](https://github.com/inspec/inspec-azure/tree/master/test/unit)
+1. **Tests:** To ensure high quality code and protect against future regressions, we require all the code in Chef Projects to have at least unit test coverage. See the [test/unit](https://github.com/akshya-j31/inspec-azure/tree/master/test/unit)
 directory for the existing tests and use ```bundle exec rake test``` to run them.
 2. **Green CI Tests:** We use [Travis CI](https://travis-ci.org) to test all Pull Requests. The Maintainers will run this manually. We require these test runs to succeed on every Pull Request before being merged.
-3. **Up-to-date Documentation:**  Every code change should be reflected in an update for our [documentation](https://github.com/inspec/inspec-azure/tree/master/docs). We expect PRs to update the documentation with the code change.
+3. **Up-to-date Documentation:**  Every code change should be reflected in an update for our [documentation](https://github.com/akshya-j31/inspec-azure/tree/master/docs). We expect PRs to update the documentation with the code change.
 
 ### Code Review Process
 
@@ -34,7 +34,7 @@ Code review takes place in Github Pull Requests. See [this article](https://help
 
 Once you open a Pull Request, project maintainers will review your code and respond to your Pull Request with any feedback they might have. The process at this point is as follows:
 
-1. One thumbs-up (:+1:) is required from project maintainers. See the master maintainers document for InSpec projects at <https://github.com/inspec/inspec-azure/blob/master/MAINTAINERS.md>.
+1. One thumbs-up (:+1:) is required from project maintainers. See the master maintainers document for InSpec projects at <https://github.com/akshya-j31/inspec-azure/blob/master/MAINTAINERS.md>.
 2. When ready, your Pull Request will be merged into `master`, we may require you to rebase your PR to the latest `master`.
 3. Once the PR is merged, you will be included in `CHANGELOG.md`.
 
@@ -42,7 +42,7 @@ Once you open a Pull Request, project maintainers will review your code and resp
 
 Licensing is very important to open source projects. It helps ensure the software continues to be available under the terms that the author desired.
 
-Chef uses [the Apache 2.0 license](https://github.com/inspec/inspec-azure/blob/master/LICENSE) to strike a balance between open contribution and allowing you to use the software however you would like to.
+Chef uses [the Apache 2.0 license](https://github.com/akshya-j31/inspec-azure/blob/master/LICENSE) to strike a balance between open contribution and allowing you to use the software however you would like to.
 
 The license tells you what rights you have that are provided by the copyright holder. It is important that the contributor fully understands what rights they are licensing and agrees to them. Sometimes the copyright holder isn't the contributor, such as when the contributor is doing work on behalf of a company.
 

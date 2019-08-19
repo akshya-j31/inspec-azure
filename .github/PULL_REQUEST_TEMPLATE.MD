@@ -1,6 +1,6 @@
 ### Description
 
-Please describe what this change achieves. Ensure you have read the [Contributing to InSpec](https://github.com/inspec/inspec-azure/CONTRIBUTING.MD) document before submitting.
+Please describe what this change achieves. Ensure you have read the [Contributing to InSpec](https://github.com/akshya-j31/inspec-azure/CONTRIBUTING.MD) document before submitting.
 
 ### Issues Resolved
 

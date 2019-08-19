@@ -4,7 +4,7 @@
 
 For more information on project states and SLAs, see [this documentation](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md).
 
-[![Build Status](https://travis-ci.org/inspec/inspec-azure.svg?branch=master)](https://travis-ci.org/inspec/inspec-azure)
+[![Build Status](https://travis-ci.org/akshya-j31/inspec-azure.svg?branch=master)](https://travis-ci.org/akshya-j31/inspec-azure)
 
 This InSpec resource pack uses the Azure REST API and provides the required resources to write tests for resources in Azure.
 
@@ -61,12 +61,12 @@ version: 0.1.0
 inspec_version: '>= 4.6.9'
 depends:
   - name: inspec-azure
-    url: https://github.com/inspec/inspec-azure/archive/x.tar.gz
+    url: https://github.com/akshya-j31/inspec-azure/archive/x.tar.gz
 supports:
   - platform: azure
 ```
 
-(For available inspec-azure versions, see this list of [inspec-azure versions](https://github.com/inspec/inspec-azure/releases).)
+(For available inspec-azure versions, see this list of [inspec-azure versions](https://github.com/akshya-j31/inspec-azure/releases).)
 
 ## Examples
 
