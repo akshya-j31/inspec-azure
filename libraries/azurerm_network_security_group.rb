@@ -54,7 +54,7 @@ class AzurermNetworkSecurityGroup < AzurermSingularResource
   def allow_https_from_internet?
     @allow_https_from_internet ||= matches_criteria?(HTTPS_CRITERIA, security_rules_properties)
   end
-  # RSpec::Matchers.alias_matcher :allow_https_from_internet, :be_allow_https_from_internet
+  RSpec::Matchers.alias_matcher :allow_https_from_internet, :be_allow_https_from_internet
 
   RDP_CRITERIA = %i(rdp_port access_allow direction_inbound tcp source_open).freeze
   def allow_rdp_from_internet?
